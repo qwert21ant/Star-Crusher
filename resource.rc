@@ -1,0 +1,6 @@
+#include "resource.h"
+
+MY_FONT RT_RCDATA "my_font.ttf"
+
+IDB_SPRITES BITMAP "sprites.bmp"
+IDB_BACKGROUND BITMAP "background.bmp"

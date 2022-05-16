@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.061,=F:\Саша\CPPBuilder\Game\Utils.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.604,=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Config.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.757,C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Config.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.884,=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Animation.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.129,C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Unit3.h=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Generator.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.766,=F:\Саша\CPPBuilder\Game\Cursor.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.078,=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\BitmapSet.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.865,=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Timer.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.759,=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Laser.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.868,C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Animation.h=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.992,=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.233,=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.875,=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Asteroid.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.469,=F:\Саша\CPPBuilder\Game\resource.rc</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.129,C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Unit3.cpp=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Generator.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.592,=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.519,C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Unit2.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.196,=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.512,=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.214,C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\ATexture.cpp=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.093,C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\ATexture.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.271,=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Bullet.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.385,=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Button.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.768,=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\resource.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.752,=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Enemy2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.250,=F:\Саша\CPPBuilder\Game\Bitmap.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.352,C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\GlobalStorage.h=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Unit3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.294,=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\GlobalStorage.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.409,C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\GlobalStorage.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.868,C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Animation.cpp=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.054,C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Animation.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.983,=F:\Саша\CPPBuilder\Game\Cursor.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.130,F:\Саша\CPPBuilder\Game\Cursor.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.866,=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Enemy.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.477,=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\GlobalStorage.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.232,C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\GlobalStorage.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.352,C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\GlobalStorage.cpp=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.214,C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\ATexture.h=C:\Users\qwert\OneDrive\Рабочий стол\Белдер\Game\Unit2.h</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Animation.h"/>
+    <File Path="Asteroid.h"/>
+    <File Path="Bitmap.h"/>
+    <File Path="Bullet.h"/>
+    <File Path="Button.h"/>
+    <File Path="Enemy.h"/>
+    <File Path="Enemy2.h"/>
+    <File Path="Entity.h"/>
+    <File Path="GameEngine.cpp"/>
+    <File Path="GameEngine.cpp"/>
+    <File Path="GameEngine.h"/>
+    <File Path="GlobalStorage.h"/>
+    <File Path="Player.h"/>
+    <File Path="Project1.cpp"/>
+    <File Path="Project1PCH1.h"/>
+    <File Path="Timer.h"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+    <File Path="Utils.h"/>
+    <File Path="Cursor.h"/>
+    <File Path="resource.h"/>
+    <File Path="resource.rc"/>
+    <File Path="Generator.cpp"/>
+    <File Path="Generator.cpp"/>
+    <File Path="Generator.h"/>
+    <File Path="Laser.h"/>
+    <File Path="BitmapSet.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
